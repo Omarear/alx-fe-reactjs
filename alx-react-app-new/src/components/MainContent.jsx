@@ -1,7 +1,7 @@
 const MainContent = () => {
     return ( 
       <main>
-      <p>I love to visit New York, Paris, and Tokyo.</p>
+      <p style={{fontFamily: 'monospace'}}>I love to visit New York, Paris, and Tokyo.</p>
       </main>
     )
   }
