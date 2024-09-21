@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "Spaghetti Carbonara",
+      "summary": "A classic Italian pasta dish with eggs, cheese, bacon, and black pepper.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Chicken Tikka Masala",
+      "summary": "Chunks of grilled chicken (tikka) cooked in a smooth buttery & creamy tomato based gravy.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "title": "Chicken Alfredo",
+      "summary": "A simple and elegant pasta dish with a rich and creamy sauce.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "title": "Beef Stroganoff",
+      "summary": "A Russian dish of sautéed pieces of beef served in a sauce with sour cream.",
+      "image": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "title": "Chicken Parmesan",
+      "summary": "A classic Italian-American dish of breaded chicken cutlets baked with marinara sauce and mozzarella cheese.",
+      "image": "https://via.placeholder.com/150"
+    }
+  ]
